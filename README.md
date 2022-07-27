@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @devaraj3
-- 👀 I’m interested in Content writing & logo design
-- 🌱 I’m currently learning web development
+- 👀 I’m interested in Content writing & web development
+- 🌱 I’m currently learning app development
 - 💞️ I’m looking to collaborate on above these skills
 - 📫 How to reach me https://linktr.ee/devaraj1
 
