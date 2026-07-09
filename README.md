@@ -6,7 +6,7 @@ Manufacturing-tech builder · AI vibe coder · Zero-to-one product thinker
 
 I work at the intersection of mechanical engineering and AI, taking ideas from a blank screen to shipped software. Not just specs, actual working tools.
 
-Spent 2.7+ years at a B2B manufacturing startup where my title said "Content Writer" but my actual work was building products, writing technical docs, running pre-sales for aerospace and defence customers across the US and Europe, and owning whatever needed owning across teams.
+Spent 2.8+ years at a B2B manufacturing startup where my title said "Content Writer" but my actual work was building products, writing technical docs, running pre-sales for aerospace and defence customers across the US and Europe, and owning whatever needed owning across teams.
 
 ---
 
@@ -45,7 +45,7 @@ Sync Star Award and Best Cross-Functional Team at Frigate, for driving work acro
 
 ---
 
-[LinkedIn](https://www.linkedin.com/in/devaraj1/) · [Portfolio](https://deva-portfolio.lovable.app)
+[LinkedIn](https://www.linkedin.com/in/devaraj1/) · [Portfolio](https://deva-works.lovable.app/)
 
 ---
 
